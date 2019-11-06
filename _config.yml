@@ -61,6 +61,10 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  经典算法: Arithmetic
+  机器学习: MachineLearning
+  深度学习: DeeoLearning
+  自然语言处理: NLP
 tag_map:
 
 # Metadata elements
@@ -90,7 +94,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
